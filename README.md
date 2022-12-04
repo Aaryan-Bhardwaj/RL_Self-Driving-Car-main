@@ -22,7 +22,7 @@ This work uses [Songyan Ho's work](https://github.com/songyanho/Reinforcement-Le
 
 # Simulator
 
-![screenshot](https://lh3.googleusercontent.com/98C8-z7Y747GH0gCZX4C6JpdOK0bU1iN_YKBSQf71DyVd-ggrybOi0ypYHQq7hVeXDM=w2400)
+![screenshot](https://lh4.googleusercontent.com/k4OYr4Xbm19aXYHhfaYEUIwbfI5gB8tgJFYL3ZhrzQemRVZDjoaomnYS3kmwh32xAX4=w2400)
 
 *Simulator running under macOS environment*
 
