@@ -30,4 +30,7 @@ This work uses [Songyan Ho's work](https://github.com/songyanho/Reinforcement-Le
 1. Install latest Python version
 2. Open Terminal. Navigate to main directory.
 3. Install requirements using <br>&nbsp;&nbsp;&nbsp;pip install -r requirements.txt
-4. Run using command <br>&nbsp;&nbsp;&nbsp;python gui.py
+4. For training the RL agent, Open config.py, comment the lines 21, 22 & 23 and uncomment the lines 16, 17 & 18. Set the penalties and rewards in config.py
+5. For setting the reward for overtaking and penalty for being overtaken, open gui_util.py and edit the lines 223 (Overtaking reward) and 227 (being overtaken penalty)
+6. For testing the RL agent, Open config.py, uncomment the lines 21, 22 & 23 and comment the lines 16, 17 & 18.
+7. Run using command <br>&nbsp;&nbsp;&nbsp;python gui.py 
