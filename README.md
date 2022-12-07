@@ -9,7 +9,7 @@ ___
 # Reinforcement Learning for Self-Driving Cars
 ___
 
-- This project is a Final Project carried out by **Aaryan Bhardwaj, Apoorv Uplal, Aditya Ravichander, Akshat Sharma** as part of our EEE 598 curriculum.
+- This project is a Final Project carried out by **Aaryan Bhardwaj, Apoorva Uplap, Aditya Ravichander, Akshat Sharma** as part of our EEE 598 curriculum.
 - Download here: [Final-Report.pdf](https://docs.google.com/document/d/18EjKs-7TDLgtz52AHI6O3cpm7RkFAeCz/edit?usp=share_link&ouid=104476638045106880617&rtpof=true&sd=true)
 
 ___
