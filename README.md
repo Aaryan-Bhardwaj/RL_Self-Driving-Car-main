@@ -35,3 +35,7 @@ This work uses [Songyan Ho's work](https://github.com/songyanho/Reinforcement-Le
 6. Run using command <br>&nbsp;&nbsp;&nbsp;python gui.py 
 7. For testing the RL agent, Open config.py, uncomment the lines 21, 22 & 23 and comment the lines 16, 17 & 18.
 8. Run using command <br>&nbsp;&nbsp;&nbsp;python gui.py 
+
+## Plot
+1. Run the plot.m file in matlab.
+2. The file accepts the 3 txt files - avgVel.txt, brakeCount.txt, rewards.txt as inputs and will plot the three corresponding values w.r.t episodes.
